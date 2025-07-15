@@ -48,4 +48,4 @@ while True:
         buscar_noticia()
     except Exception as e:
         print(f"Erro: {e}")
-    time.sleep(1200)  
+    time.sleep(1200)
